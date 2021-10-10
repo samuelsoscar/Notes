@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://gee.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx?op=ObtenerIndicadoresEconomicos" uri="xml-resources/web-service-references/wsIndicadoresEconomicos/wsdl/gee.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx.op_obtenerindicadoreseconomicos"/>
+    <system systemId="https://gee.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx?op=ObtenerIndicadoresEconomicosXML" uri="xml-resources/web-service-references/wsIndicadoresEconomicos/wsdl/gee.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx.op_obtenerindicadoreseconomicosxml"/>
+    <system systemId="https://gee.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx?WSDL" uri="xml-resources/web-service-references/wsIndicadoresEconomicos/wsdl/gee.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx.wsdl"/>
+</catalog>
